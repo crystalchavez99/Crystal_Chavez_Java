@@ -34,4 +34,3 @@ public class OAuthConfig  extends AuthorizationServerConfigurerAdapter {
         endpoints.authenticationManager(this.authenticationManager);
     }
 }
-
